@@ -23,21 +23,21 @@ handler.all = async function (m) {
     // ketika ada yang invite/kirim link grup di chat pribadi
     if ((m.mtype === 'groupInviteMessage' || m.text.startsWith('https://chat') || m.text.startsWith('Buka tautan ini')) && !m.isBaileys && !m.isGroup) {
         this.send2But(m.chat, `┌─────*「 𝗜𝗡𝗩𝗜𝗧𝗘 𝗚𝗥𝗨𝗣 」*─────
-➥ Allo mypren Kalau mau Invite Bayar ya gengs👋
+➥ Allo mypren Kalau mau Invite Bayar ya gengs👌🏻
 ➥ Jangan mau enak aja, tenang bakalan dijagain Grup lu
 ╔══════════════════════
 ║╭──❉ 「 𝗗𝗢𝗡𝗔𝗦𝗜 」 ❉──────
-║│➸ *DANA* : 081360482998
-║│➸ *PULSA*: 081360482998
-║│➸ *GOPAY*: 081360482998
-║│➸ *OVO*    : 081360482998
+║│➸ *DANA* : 082252724422
+║│➸ *PULSA*: 082146218274
+║│➸ *GOPAY*: belum tersedia
+║│➸ *OVO*    : belum tersedia
 ║╰──────────────────
 ╠══════════════════════
 ║╭──❉ 「 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 」 ❉─────
 ║│➸ 𝟏 ᗰIᑎGGᑌ    : _Rp._ *10.000*
 ║│➸ 𝟏 ᗷᑌᒪᗩᑎ       : _Rp._ *15.000*
 ║│➸ 𝟑 ᗷᑌᒪᗩᑎ : _Rp._ *20.000*
-║│➸ ᑭEᖇᗰᗩᑎEᑎ : _Rp._ *30.000*
+║│➸ ᑭEᖇᗰᗩᑎEᑎ : _Rp._ *50.000*
 ║╰──────────────────    
 ╚════════════════════
 `.trim(), '📮 Silahkan Sewa Terlebih dahulu', 'Pemilik Bot', '.owner', 'Paymant', '.paymant', m)

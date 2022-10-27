@@ -26,22 +26,22 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ
+FN: ᯤ ʀɪᴇʟʟxᴅ ᴏꜰᴄ
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=62895327934887:62895327934887@s.whatsapp.net
+item1.TEL;waid=6282146218274:6282146218274@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
-item2.EMAIL;type=INTERNET: mhdfakri14@gmail.com
+item2.EMAIL;type=INTERNET: riellgans14@gmail.com
 item2.X-ABLabel:📫 Gmail
 item3.ADR:;;📍 Acehnese - Indonesian;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:📮 Location Owner
-item4.URL:http://youtube.com/c/hokenbeusz
+item4.URL:https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg
 item4.X-ABLabel:Youtube
-item5.URL:https//github.com/krizynofc
+item5.URL:https//github.com/rielltod1
 item5.X-ABLabel:Github
-item6.URL:https//instagram.com/mhdfakri_
+item6.URL:https//instagram.com/riellxd_04
 item6.X-ABLabel:Instagram
-item7.URL:https://lynk.id/kri.com
+item7.URL:https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg
 item7.X-ABLabel:Website
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
@@ -53,7 +53,7 @@ const sentMsg  = await conn.sendMessage(
         }
     }
 )
-let krizyn = 'https://telegra.ph/file/538b6b4232ddbacf342ae.jpg'
+let krizyn = 'https://telegra.ph/file/5129419b702dd99c78234.jpg'
 await conn.send3ButtonImg(m.chat, krizyn, `${ucapan()}\n\nHallo mypren, @${m.sender.split`@`[0]} 👋\nIni nomor owner botnya, jangan di spam ya\nKalau mau disave syarat nya harus pakai profile Sendiri\nKalau gak ada profile gak bakalan direspon\nJika penting langsung chat Ownet\n\n⫹⫺ Date : *${week} ${date}*\n⫹⫺ Time : *${wib}*`, wm3, 'Source', '.sc', 'Menu', '.menu', 'Donasi', '.donasi', sentMsg)}
 handler.help = ['owner']
 handler.tags = ['info']

@@ -25,18 +25,18 @@ ptt: true,// true diatas ga work, sebab dipaksa tanpa convert ;v
 contextInfo: { 
          externalAdReply: { 
          showAdAttribution: true,
- 	     sourceUrl: `${pickRandom([`https://vt.tiktok.com/ZSRBqB9q1/`, `https://www.instagram.com/itskri99`, `https://youtube.com/hokenbeusz`])}`,
-           title: 'FORYN FOUR ONLINE 🥰',  
+ 	     sourceUrl: `${pickRandom([`https://vt.tiktok.com/ZSRBqB9q1/`, `https://www.instagram.com/riellxd_04`, `https://youtube.com/RIELLBOTZ OFFC`])}`,
+           title: 'KHURUSHIBOTZ ONLINE 🥰',  
             body: `Ada yang bisa dibantu ?`, 
-           thumbnail: await (await fetch(`${pickRandom(['https://telegra.ph/file/8fcbf793da8b937a21237.jpg', 'https://telegra.ph/file/bc8746f21882e9585c79b.jpg', 'https://telegra.ph/file/cf8c6dae68158bc06731d.jpg', 'https://telegra.ph/file/29b9805b4704cda560c9b.jpg'])}`)).buffer()
+           thumbnail: await (await fetch(`${pickRandom(['https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg', 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg', 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg', 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg'])}`)).buffer()
 }
      }
 })
 }
 /*conn.reply(m.chat, info, m, { quoted: fakes },{ contextInfo: { externalAdReply: { showAdAttribution: true,
-      mediaUrl: "https://Instagram.com/itskri99",
+      mediaUrl: "https://Instagram.com/riellxd_04",
       mediaType: 2,
-      description: "https://Instagram.com/itskri99", 
+      description: "https://Instagram.com/riellxd_04", 
       title: global.titlebot,
       body: wm,
       thumbnail: thumb,

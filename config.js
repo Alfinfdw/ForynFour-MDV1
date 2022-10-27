@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['628214218274'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['628214218274']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'RIELLXD OFC'
+global.noown = '628214218274'
+global.namebot = 'KHURUSHI BOTZ'
+global.nobot = '6283813417529'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
+global.instagram = 'https://instagram.com/riellxd_04'
+global.github = 'https://github.com/abilbotz1'
 global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/Kricom'
+global.web = 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
-global.ovo = '081360482998'
+global.dana = '082252724422'
+global.pulsa = '082146218274'
+global.gopay = '-'
+global.shopay = '-'
+global.ovo = '-'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'ᬊᬁ 𝐊𝐇𝐔𝐑𝐔𝐒𝐇𝐈 𝐌𝐃'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝐑𝐢𝐞𝐥𝐥𝐗𝐝'
+global.wm3 = '⫹⫺ 𝐊𝐇𝐔𝐑𝐔𝐒𝐇𝐈 𝐌𝐃 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -87,7 +87,8 @@ global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃⫹⫺ Jarot
 ┃⫹⫺ Kanna
 ┃⫹⫺ Fokusid
-┃
+┃⫹⫺ RiellXd (Me)
+┃⫹⫺ Ayuu girl (partneth aing)
 ┗━━══┅┅══━━━✦`
         
 // HIASAN MENU LAINNYA 
@@ -104,8 +105,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'FORYN FOUR'
-global.author = 'By krizynOfc'
+global.packname = 'Rɪᴇʟʟ X Wᴀʜʏᴜ Aɴɪᴍᴇᴋ'
+global.author = 'Dɪʙᴜᴀᴛ ᴏʟᴇʜ Rɪᴇʟʟ X Wᴀʜʏᴜɢɪʀʟ'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v

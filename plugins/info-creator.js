@@ -28,9 +28,9 @@ VERSION:3.0
 N:;;;
 FN: ᯤ ʀɪᴇʟʟxᴅ ᴏꜰᴄ
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=6282146218274:6282146218274@s.whatsapp.net
+item1.TEL;waid=4915256954581:4915256954581@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
-item2.EMAIL;type=INTERNET: riellgans14@gmail.com
+item2.EMAIL;type=INTERNET: kepoamat@gmail.com
 item2.X-ABLabel:📫 Gmail
 item3.ADR:;;📍 Acehnese - Indonesian;;;;
 item3.X-ABADR:ac

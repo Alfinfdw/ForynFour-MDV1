@@ -26,7 +26,7 @@ contextInfo: {
          externalAdReply: { 
          showAdAttribution: true,
  	     sourceUrl: `${pickRandom([`https://vt.tiktok.com/ZSRBqB9q1/`, `https://www.instagram.com/riellxd_04`, `https://youtube.com/RIELLBOTZ OFFC`])}`,
-           title: 'KHURUSHIBOTZ ONLINE 🥰',  
+           title: 'NILUHBOTZ ONLINE 🥰',  
             body: `Ada yang bisa dibantu ?`, 
            thumbnail: await (await fetch(`${pickRandom(['https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg', 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg', 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg', 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg'])}`)).buffer()
 }

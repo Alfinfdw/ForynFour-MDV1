@@ -13,7 +13,7 @@ https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg
 github.com/RiellTod1
 
 📮 JANGAN LUPA FOLLOW IG OWNER :
-@riellxd_04
+@kepoamat
 
 await conn.sendBut(m.chat, esce, '📮 DONT FORGET TO FOLLOW MY ACCOUNT', 'Thanks', '.menu', m) 
 }

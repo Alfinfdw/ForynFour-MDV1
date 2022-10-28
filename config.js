@@ -3,16 +3,16 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['628214218274'] 
+global.owner = ['4915256954581'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['628214218274']
+global.kontak = ['4915256954581']
 
 //  INFO BOT 
-global.naown = 'RIELLXD OFC'
-global.noown = '628214218274'
-global.namebot = 'KHURUSHI BOTZ'
-global.nobot = '6283813417529'
+global.naown = ' NILUH OFC'
+global.noown = '4915256954581'
+global.namebot = 'NILUH BOTZ'
+global.nobot = '6285852939370'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/riellxd_04'
@@ -22,8 +22,8 @@ global.web = 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg' //ubah jadi 
 global.saweria = 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg'
 
 // PAYMANT 
-global.dana = '082252724422'
-global.pulsa = '082146218274'
+global.dana = '4915256954581'
+global.pulsa = '4915256954581'
 global.gopay = '-'
 global.shopay = '-'
 global.ovo = '-'

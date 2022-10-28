@@ -11,7 +11,7 @@ handler.all = async function (m) {
     await this.sendBut(m.chat, `
 Hello, ${ucapan()}
 ╭───────────────╮
-        My name Khurushibotz multi Device
+        My name Niluhbotz multi Device
         Salah satu Bot diwhatsapp
 ╰───────────────╯
 Hello user budayakan tidak spam bot

@@ -87,7 +87,7 @@ global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃⫹⫺ Jarot
 ┃⫹⫺ Kanna
 ┃⫹⫺ Fokusid
-┃⫹⫺ RiellXd (Me)
+┃⫹⫺ Alganz (Me)
 ┃⫹⫺ Ayuu girl (partneth aing)
 ┗━━══┅┅══━━━✦`
         
@@ -105,8 +105,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Rɪᴇʟʟ X Wᴀʜʏᴜ Aɴɪᴍᴇᴋ'
-global.author = 'Dɪʙᴜᴀᴛ ᴏʟᴇʜ Rɪᴇʟʟ X Wᴀʜʏᴜɢɪʀʟ'
+global.packname = 'Alganz X Niluh Jatim'
+global.author = 'ALGANZ X Niluh Jatim'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v

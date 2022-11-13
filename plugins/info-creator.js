@@ -26,13 +26,13 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᯤ NiluhChan
+FN: ᯤ owner bot
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
 item1.TEL;waid=4915256954581:4915256954581@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
 item2.EMAIL;type=INTERNET: kepoamat@gmail.com
 item2.X-ABLabel:📫 Gmail
-item3.ADR:;;📍 Acehnese - Indonesian;;;;
+item3.ADR:;;📍 jawanese - Indonesian;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:📮 Location Owner
 item4.URL:https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg
